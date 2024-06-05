@@ -1,0 +1,8 @@
+Hello Here I am telling about git and gitHub and how to connect with VS code
+
+Git :- Git is a distributed version controle system designed to handle every thing from small to large project with speed and efficiency.
+       It allows to multiple developers to work on the same codebase simultaneously without overwirting each other's changes, ensuring the integrity and historyof the code.
+
+
+
+
