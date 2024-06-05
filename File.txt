@@ -1,7 +1,39 @@
-Hello Here I am telling about git and gitHub and how to connect with VS code
+                        Hello Here I am telling about git and gitHub and how to connect with VS code
 
 Git :- Git is a distributed version controle system designed to handle every thing from small to large project with speed and efficiency.
        It allows to multiple developers to work on the same codebase simultaneously without overwirting each other's changes, ensuring the integrity and historyof the code.
+
+Key Features
+
+    1. Version Control: Git keeps track of changes to files over time, allowing you to revert to specific versions if needed.
+    2. Branching and Merging: Git supports branching, where you can create separate branches to develop features or fix bugs and then merge them back into the main branch.
+    3. Distributed System: Every developer's working copy of the code is also a repository that can contain the full history of all changes.
+    4. Speed and Performance: Git is designed to be fast, handling large projects efficiently.
+    5. Data Integrity: Every file and commit is checksummed and retrieved by its checksum, ensuring that the repository's history is protected against accidental or malicious changes.
+
+Key Concepts
+
+    - Repository (Repo): A directory where Git stores all its version-controlled files and the metadata about the history of these files.
+    - Commit: A snapshot of the repository at a specific point in time, representing a set of changes.
+    - Branch: A movable pointer to a commit, often used to develop features or fix bugs independently of the main codebase.
+    - Merge: The process of combining changes from different branches into a single branch.
+    - Clone: A copy of a Git repository, including its history and branches.
+    - Pull: Fetching changes from a remote repository and merging them into the local repository.
+    - Push: Sending local changes to a remote repository.
+    - Remote: A version of the project that is hosted on the internet or network, allowing collaboration.
+
+Common Commands
+
+    - `git init`: Initializes a new Git repository.
+    - `git clone [url]`: Creates a copy of an existing repository from a remote location.
+    - `git status`: Shows the status of changes in the working directory.
+    - `git add [file]`: Adds files to the staging area.
+    - `git commit -m "message"`: Commits the staged changes with a message.
+    - `git pull`: Fetches and integrates changes from the remote repository.
+    - `git push`: Pushes local changes to the remote repository.
+    - `git branch`: Lists, creates, or deletes branches.
+    - `git checkout [branch]`: Switches to the specified branch.
+    - `git merge [branch]`: Merges the specified branch into the current branch.
 
 
 
